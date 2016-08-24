@@ -1,0 +1,17 @@
+3562140 Jon, Dozer; 3.2 80
+5090085 Lee, Victor; 2.8 90
+2010489 Brown, Joanne; 4.0 45
+5112345 South, Frankie; 2.6 42
+4000324 Trapp, Dave; 3.9 60
+3500524 Marcus, John; 3.2 75
+1900800 Walljasper, Bryan; 3.9 90
+4300123 Trapp, Amanda Elizabeth; 4.0 10
+2100875 Andrews, Dennis; 2.9 40
+3900025 Brown, Joanne; 3.5 20
+5000001 Lee, Lucy Marie; 3.4 35
+2800590 Brown, Joanne; 2.6 60
+1100694 Marcus, John; 3.8 90
+4200357 Brown, Joanne; 4.0 75
+3300456 Lee, Victor; 3.6 30
+1200786 White, D. Robert; 3.5 15
+1500151 Marcus, John; 4.0 5
